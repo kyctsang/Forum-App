@@ -1,0 +1,11 @@
+.content{
+    padding-bottom: 100px;
+}
+
+a.title:hover{
+    text-decoration: underline !important;
+}
+
+form.thickness{
+    border-width: 3px !important;
+}
