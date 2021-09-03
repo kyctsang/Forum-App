@@ -38,4 +38,4 @@ http://localhost:3000
 ## Author  
 Casper Tsang  
 Email: kayungtsang@gmail.com  
-Please feel free to email if you have got any questions or recommendations to my project!
+Please feel free to email me if you have got any questions or recommendations to my project!
