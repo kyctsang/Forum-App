@@ -12,7 +12,8 @@ This forum is set aside for users to post topics and add comment using SPA(Singl
 * Redux-Sage
 
 ### Back end
-* Spring Boot
+* Spring Boot Kotlin
+* JPA
 * FlyWay
 * MySQL (default port is 3306 and have to create database "forum" manually before running)
 
