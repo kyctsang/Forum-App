@@ -15,7 +15,7 @@ export default function Home(props) {
                 <ol>
                     <li className="mb-2">Home
                         <ul>
-                            <li>Introduction of usage of this webapp</li>
+                            <li>Introduction and usage of this forum</li>
                         </ul>
                     </li >
                     <li className="mb-2">Topics
