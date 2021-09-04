@@ -1,6 +1,6 @@
 # Forum-Appication
 
-## Introduction
+## Description
 This forum is set aside for users to post topics and add comment using SPA(Single Page Application).
 
 ## Getting started
