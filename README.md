@@ -14,7 +14,7 @@ This forum is set aside for users to post topics and add comment using SPA(Singl
 ### Back end
 * Spring Boot
 * FlyWay
-* MySQL (default port is 3306 and create database "forum" before running)
+* MySQL (default port is 3306 and have to create database "forum" manually before running)
 
 ### Installing
 * Put backend folder in Intellij or other IDE and run build.
