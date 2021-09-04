@@ -1,7 +1,7 @@
 # Forum-Appication
 
 ## Description
-This forum is set aside for users to post topics and add comment using SPA(Single Page Application).
+This forum is set aside for users to post topics and add comment using SPA(Single Page Application). At the first time of running this application, flyway will create tables and insert data into the database 'forum'. Then the frontend will fetch those data and display it. You may also login, create topics or add comment by using the UI, those data will be saved in you MySQL server locally and will be preserved even if the backend was interrupted. The instruction of performing the former actions has been descripted in the home page of the frontend.
 
 ## Getting started
 ### Dependencies
